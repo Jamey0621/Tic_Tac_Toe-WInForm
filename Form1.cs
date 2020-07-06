@@ -154,7 +154,7 @@ namespace Tic_Tac_Toe
                 {
                     Button b = (Button)c;
                     b.Enabled = true;
-                    b.Text = "";
+                    b.Text = "_";
                 }
             }
             catch { }
